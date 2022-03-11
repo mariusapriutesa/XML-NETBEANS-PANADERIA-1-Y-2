@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productos>
+
+<producto NomProducto="tartaqueso" cantidad="3" descripcion="contiene queso" fechaCad="Thu Oct 28 00:07:11 CEST 2021" fechaFabricacion="Thu Oct 28 00:07:11 CEST 2021" id="111" precio="21.0"/>
+<producto NomProducto="postre" cantidad="1312" descripcion="" fechaCad="Fri Oct 29 01:46:30 CEST 2021" fechaFabricacion="Fri Oct 29 01:46:30 CEST 2021" id="11321" precio="123.0"/>
+
+
+<producto NomProducto="pan integral2" cantidad="4" descripcion="es de harina integral" fechaCad="Fri Oct 29 12:50:04 CEST 2021" fechaFabricacion="Fri Oct 29 12:50:04 CEST 2021" id="13244" precio="3.0"/>
+<producto NomProducto="leche" cantidad="3" descripcion="des" fechaCad="Fri Oct 29 13:57:29 CEST 2021" fechaFabricacion="Fri Oct 29 13:57:29 CEST 2021" id="" precio="2.0"/>
+</productos>
